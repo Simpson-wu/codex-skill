@@ -22,7 +22,7 @@ Copy the skill into your Claude Code skills directory:
 
 ```bash
 # Option 1: Clone and copy
-git clone https://github.com/YOUR_USERNAME/codex-skill.git
+git clone https://github.com/Simpson-wu/codex-skill.git
 cp -r codex-skill ~/.claude/skills/ask-codex
 
 # Option 2: Direct install (if Claude Code supports it)
