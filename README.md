@@ -80,6 +80,11 @@ Edit `~/.codex/config.toml` to configure:
 - Default model (e.g., `gpt-5`)
 - Reasoning effort level
 
+## Authors
+
+- [@Simpson-wu](https://github.com/Simpson-wu)
+- [Claude Code](https://claude.ai/code) (Anthropic)
+
 ## License
 
 MIT
